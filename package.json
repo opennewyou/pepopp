@@ -1,0 +1,14 @@
+{
+  "name": "986e2cd41f0818ac047f3434fd457ede",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "slot  เป็นอย่างไร สามารถทำเงินได้จริงหรือไม่?",
+  "keywords": [
+    "สล็อตpgวอเลท","สล็อต เติม true wallet ฝาก ถอน ไม่มี ขั้น ต่ํา 2021","สล็อต ยืนยัน otp รับเครดิตฟรี100"
+  ],
+  "repository": "https://github.com/opennewyou/pepopp",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
